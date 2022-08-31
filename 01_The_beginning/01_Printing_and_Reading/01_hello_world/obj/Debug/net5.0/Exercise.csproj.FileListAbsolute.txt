@@ -1,0 +1,48 @@
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.exe
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.deps.json
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.runtimeconfig.json
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.runtimeconfig.dev.json
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.dll
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.pdb
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.csproj.AssemblyReference.cache
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.AssemblyInfo.cs
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.dll
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\refint\Exercise.dll
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.pdb
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.genruntimeconfig.cache
+C:\Users\nikos\AppData\Local\tmc\vscode\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\ref\Exercise.dll
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.exe
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.deps.json
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.runtimeconfig.json
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.runtimeconfig.dev.json
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.dll
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\bin\Debug\net5.0\Exercise.pdb
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.csproj.AssemblyReference.cache
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.AssemblyInfo.cs
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.dll
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\refint\Exercise.dll
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.pdb
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\Exercise.genruntimeconfig.cache
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-001_hello_world\src\Exercise001\obj\Debug\net5.0\ref\Exercise.dll
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\bin\Debug\net5.0\Exercise.exe
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\bin\Debug\net5.0\Exercise.deps.json
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\bin\Debug\net5.0\Exercise.runtimeconfig.json
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\bin\Debug\net5.0\Exercise.runtimeconfig.dev.json
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\bin\Debug\net5.0\Exercise.dll
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\bin\Debug\net5.0\Exercise.pdb
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\Exercise.csproj.AssemblyReference.cache
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\Exercise.AssemblyInfo.cs
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\Exercise.dll
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\refint\Exercise.dll
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\Exercise.pdb
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\Exercise.genruntimeconfig.cache
+C:\Users\nikos\Desktop\CSHARP COURSE EXERCISES\CentriaCourse\part_01\part_01-001_hello_world\src\obj\Debug\net5.0\ref\Exercise.dll
