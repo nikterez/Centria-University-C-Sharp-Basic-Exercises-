@@ -1,0 +1,16 @@
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\bin\Debug\net5.0\Exercise.exe
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\bin\Debug\net5.0\Exercise.deps.json
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\bin\Debug\net5.0\Exercise.runtimeconfig.json
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\bin\Debug\net5.0\Exercise.runtimeconfig.dev.json
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\bin\Debug\net5.0\Exercise.dll
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\bin\Debug\net5.0\Exercise.pdb
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\Exercise.csproj.AssemblyReference.cache
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\Exercise.AssemblyInfo.cs
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\Exercise.dll
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\refint\Exercise.dll
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\Exercise.pdb
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\Exercise.genruntimeconfig.cache
+C:\Users\nikos\csharp\centria-csharp-basics-open-university\part_01-011_print_variables\src\Exercise011\obj\Debug\net5.0\ref\Exercise.dll
